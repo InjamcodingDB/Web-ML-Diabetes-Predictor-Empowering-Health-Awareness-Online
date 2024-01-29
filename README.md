@@ -4,6 +4,10 @@ The Diabetes Prediction Web Application is a machine learning project aimed at p
 
 ## Dataset Information
 The dataset used in this project is a collection of medical and demographic data from patients, along with their diabetes status (positive or negative). It includes features such as age, gender, BMI, hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. This dataset is valuable for building machine learning models to predict diabetes, aiding healthcare professionals in identifying at-risk patients and developing personalized treatment plans. Additionally, it provides an opportunity for researchers to explore the relationships between various medical and demographic factors and the likelihood of developing diabetes.
+#### https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
+
+## Model Comparison
+We applied various machine learning models to predict diabetes based on the dataset. These models include Random Forest, Logistic Regression, Support Vector Machine (SVM), Gradient Boosting, and AdaBoost. After thorough evaluation, AdaBoost emerged as the best-performing model, achieving an accuracy of 97.2%. This high accuracy demonstrates the effectiveness of AdaBoost in predicting diabetes based on medical history and demographic information.
 
 ## Project Summary
 The Diabetes Prediction Web Application allows users to input their medical history and demographic information through a user-friendly web interface. The application utilizes machine learning algorithms to analyze the input data and predict the likelihood of the user developing diabetes. This prediction can assist healthcare professionals in early detection and prevention of diabetes-related complications, as well as aid researchers in understanding the factors contributing to diabetes onset.
